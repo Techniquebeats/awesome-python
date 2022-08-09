@@ -1,5 +1,7 @@
 # Contributing
 
+"Email an Kollegin senden lieblings_kollegin@gmail.com"
+
 Your contributions are always welcome!
 
 ## Guidelines
